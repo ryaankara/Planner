@@ -13,3 +13,6 @@ that it belongs to so that the user can easily see.
 
 Currently reseaching and learning the basics of Android Studio using the following tutorial:
 https://www.youtube.com/watch?v=F-k5gwz_91o
+
+*Some troubles/restrictions with Android Studio on school computer, so need to
+download at home on personal device*
